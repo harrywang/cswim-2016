@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cswimadmin2016 &#8211; CSWIM 2016</title>
+	<atom:link href="http://2016.cswimworkshop.org/author/cswimadmin2016/feed" rel="self" type="application/rss+xml" />
+	<link>http://2016.cswimworkshop.org</link>
+	<description>The 10th China Summer Workshop on Information Management, June 25-26, 2016, Dalian, China</description>
+	<lastBuildDate>Thu, 19 Jan 2017 14:46:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.1</generator>
+
+<image>
+	<url>http://2016.cswimworkshop.org/wp-content/uploads/2015/11/cropped-cswim_icon-32x32.png</url>
+	<title>cswimadmin2016 &#8211; CSWIM 2016</title>
+	<link>http://2016.cswimworkshop.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>COMMITTEE</title>
+		<link>http://2016.cswimworkshop.org/committee</link>
+		<comments>http://2016.cswimworkshop.org/committee#respond</comments>
+		<pubDate>Tue, 15 Dec 2015 03:09:37 +0000</pubDate>
+		<dc:creator><![CDATA[cswimadmin2016]]></dc:creator>
+				<category><![CDATA[unseeable]]></category>
+
+		<guid isPermaLink="false">http://2016.cswimworkshop.org/?p=58</guid>
+		<description><![CDATA[ORGANIZING COMMITTEE Honorary Chair Zhongtuo Wang, Dalian University of Technology, China Workshop Co-Chairs Wenli Li, Dalian University of Technology, China Jianqing Chen, The University of Texas at Dallas, USA Local Arrangement Co-Chairs Qingfei Min, Dalian University of Technology, China Publicity Chair and Webmaster Undetermined Best Paper Award Committee Chair Undetermined Technical Support Jiannan (Harry) Wang, &#8230; <a href="http://2016.cswimworkshop.org/committee" class="more-link">Continue reading <span class="screen-reader-text">COMMITTEE</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<h2>ORGANIZING COMMITTEE</h2>
+<p><strong>Honorary Chair</strong><br />
+<a href="http://management.dlut.edu.cn/info/1136/1905.htm" target="_blank">Zhongtuo Wang</a>, Dalian University of Technology, China</p>
+<p><strong>Workshop Co-Chairs</strong><br />
+<a href="http://management.dlut.edu.cn/info/1144/2167.htm" target="_blank">Wenli Li</a>, Dalian University of Technology, China<br />
+<a href="http://jindal.utdallas.edu/faculty/jianqing-chen" target="_blank">Jianqing Chen</a>, The University of Texas at Dallas, USA</p>
+<p><strong>Local Arrangement Co-Chairs</strong><br />
+<a href="http://management.dlut.edu.cn/info/1152/2231.htm" target="_blank">Qingfei Min</a>, Dalian University of Technology, China</p>
+<p><strong>Publicity Chair and Webmaster</strong><br />
+Undetermined</p>
+<p><strong>Best Paper Award Committee Chair</strong><br />
+Undetermined</p>
+<p><strong>Technical Support</strong><br />
+<a href="http://sites.udel.edu/wang/" target="_blank">Jiannan (Harry) Wang</a>, University of Delaware, USA<br />
+<a href="http://management.dlut.edu.cn/info/1180/2514.htm" target="_blank">Gang Qu</a>, Dalian University of Technology, China</p>
+<h2>ADVISORY COMMITTEE</h2>
+<p>Undetermined</p>
+<h2>BEST PAPER AWARD COMMITTEE</h2>
+<p>Undetermined</p>
+<h2>PREPARATORY COMMITTEE</h2>
+
+<table id="tablepress-3" class="tablepress tablepress-id-3">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">NAME</th><th class="column-2">AFFILIATION</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">Yanzhong Dang</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">Guishi Deng</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">Chonghui Guo</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">Xiangpei Hu</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">Chun Jin</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">Wenli Li</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1">Tao Lu</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1">Qingfei Min</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">Risa Na</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1">Donghua Pan</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1">Yongsheng Qian</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-13 odd">
+	<td class="column-1">Gang Qu</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-14 even">
+	<td class="column-1">Lili Rong</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-15 odd">
+	<td class="column-1">Mingqiu Song</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-16 even">
+	<td class="column-1">Lijun Sun</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-17 odd">
+	<td class="column-1">Jianjun Wang</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-18 even">
+	<td class="column-1">Mingzheng Wang</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-19 odd">
+	<td class="column-1">Xuping Wang</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-20 even">
+	<td class="column-1">Jiangning Wu</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-21 odd">
+	<td class="column-1">Haoxiang Xia</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-22 even">
+	<td class="column-1">Dequan Yang</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-23 odd">
+	<td class="column-1">Guangfei Yang</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-24 even">
+	<td class="column-1">Guangqian Zhang</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-25 odd">
+	<td class="column-1">Xingzhou Zhang</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+<tr class="row-26 even">
+	<td class="column-1">Zhen Zhang</td><td class="column-2">Dalian University of Technology, China</td>
+</tr>
+</tbody>
+</table>
+<!-- #tablepress-3 from cache -->
+<h2></h2>
+<h2></h2>
+]]></content:encoded>
+			<wfw:commentRss>http://2016.cswimworkshop.org/committee/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
